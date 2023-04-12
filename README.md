@@ -2,4 +2,4 @@
 
 Documentation for the `Project Farm Adventure` project.
 
-See [here](https://snowmeltarcade.github.io/projectfarmadventure/documentation/) for the code documentation.
+See [here](https://snowmeltarcade.github.io/projectfarmadventuredocumentation/) for the code documentation.
